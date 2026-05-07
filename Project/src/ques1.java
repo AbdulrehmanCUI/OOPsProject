@@ -7,3 +7,5 @@ class Human extends Animali{
         System.out.println("");
     }
 }
+class Abdulrehman extends Human{
+}
