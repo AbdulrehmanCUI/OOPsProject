@@ -13,10 +13,9 @@ class Abdulrehman extends Human{
     }
 
 }
-class Abd extends Animali{
-    @Override
-    void sound() {
-        System.out.println("bark bhao bhao");
+class Abd extends Human{
+    public static void add(){
+        System.out.println("bark: bhao bhao");
     }
 }
 
