@@ -8,5 +8,9 @@ class Human extends Animali{
     }
 }
 class Abdulrehman extends Human{
+    public static void pilot(){
+        System.out.println("10:06");
+    }
 
 }
+
